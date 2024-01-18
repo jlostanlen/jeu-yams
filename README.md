@@ -1,4 +1,4 @@
-# jeu-yams
+# Jeu de Yams
 Création d'un jeu de Yams en langage C s'exécutant dans un terminal. Le Yams est un jeu de dé pour deux joueurs. Le but est d'obtenir le plus grand nombre de points en réalisant des combinaisons.
 J'ai réalisé ce projet à l'automne 2021, au tout début de ma première année d'informatique. Je n'avais jamais vraiment fait de code avant cette première année d'étude... 
 
