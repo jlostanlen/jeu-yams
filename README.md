@@ -3,7 +3,7 @@ Création d'un jeu de Yams en langage C s'exécutant dans un terminal. Le Yams e
 J'ai réalisé ce projet à l'automne 2021, au tout début de ma première année d'informatique. Je n'avais jamais vraiment fait de code avant cette première année d'étude... 
 
 ## Code source : 
-/**
+```/**
  * @file jeu_yams.c
  * @author Lostanlen Jérémie (jeremie.lostanlen@etudiant.univ-rennes1.fr)
  * @brief 
@@ -1109,3 +1109,4 @@ void initialiseTableau2dimensions(typeTab t)
         }
     }
 }
+```
